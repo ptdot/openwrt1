@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/openwrt/openwrt
+  REPO_URL: https://github.com/ptdot/openwrt-1
   REPO_BRANCH: v19.07.5
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
