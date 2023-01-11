@@ -18,3 +18,4 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #echo 'src-git clash https://github.com/frainzy1477' >>feeds.conf.default
 #echo 'src-git kenzo8 https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
+echo 'src-git mulimiter https://github.com/helmiau/helmiwrt-packages' >>feeds.conf.default
